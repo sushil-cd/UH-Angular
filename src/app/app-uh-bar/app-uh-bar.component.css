@@ -1,0 +1,16 @@
+#uh-bar{
+  height: 150px;
+  width: 100%;
+  background-color: white;
+  padding-left: 100px;
+  padding-top: 70px;
+
+
+  top:0;
+
+}
+#uh-logo{
+  max-height: 105px;
+  min-width: 607px;
+  padding: 0 15px;
+}
